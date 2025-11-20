@@ -37,3 +37,14 @@ AI (Gemini) analyzes the uploaded words and automatically generates:
 
 - Points system
 - Post-quiz performance summary
+
+### ✅ 6. APP UI
+
+<img width="426" height="760" alt="image" src="https://github.com/user-attachments/assets/1eb7fd70-20bd-44ad-8b0c-ad372862e6bf" /> 
+<img width="423" height="475" alt="image" src="https://github.com/user-attachments/assets/4278e56f-c430-48c2-a6fa-975adeae490b" />
+<img width="417" height="632" alt="image" src="https://github.com/user-attachments/assets/5790d515-2583-4b9b-af3a-fab53c0972df" /> 
+<img width="421" height="622" alt="image" src="https://github.com/user-attachments/assets/1ce8f35e-81e1-4af1-b1c5-1795500dded1" /> 
+
+
+
+
